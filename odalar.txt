@@ -1,0 +1,9 @@
+oturma
+yatak
+cocuk
+salon 
+mutfak
+banyo 
+tuvalet
+e. banyo 
+giriş
